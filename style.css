@@ -1,0 +1,58 @@
+/*for mobile site*/
+/*Set height to 290px if u want to set fixed width*/
+body{font-family: 'Montserrat', sans-serif !important;
+	background-color: grey;
+}
+#cazza1 {
+  height: auto !important;
+  max-height: 500px;
+  width: 99%;
+ background-position: center center;
+  background-size: cover;
+  
+
+}
+#cazza2 {
+  height: auto !important;
+  max-height: 500px;
+  width: 99%;
+   background-position: center center;
+  background-size: cover;
+}
+#cazza3 {
+  height: auto !important;
+  max-height: 500px;
+  width: 99%;
+background-position: center center;
+  background-size:  cover;
+}
+#cazza4{
+	height: auto !important;
+  max-height: 500px;
+  width: 99%;
+	background-position: center center;
+	background-size:  cover;
+}
+#cazza5{
+	height: auto !important;
+  max-height: 500px;
+  width: 99%;
+	background-position: center center;
+	background-size:  cover;
+}
+  
+  .container1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.container>figcaption{text-decoration: none;}
+img{
+	width:auto;
+	height: 300px;
+	margin: 10px;
+	transition:  all 0.5s;
+	
+}
+
+img:hover{transform: scale(1.1);}
